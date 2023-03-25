@@ -1,0 +1,1255 @@
+2023-03-25 18:33:56,265 - INFO - Data Transfer Started
+2023-03-25 18:33:56,265 - INFO - Intantiating Class
+2023-03-25 18:33:56,265 - INFO - Starting Data Transfer
+2023-03-25 18:33:59,987 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:33:59,988 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,988 - DEBUG - Input values: [nan 2.2632899054269373 nan nan nan nan nan]
+2023-03-25 18:33:59,988 - DEBUG - Mapping Event Driven/Spec. Sit. (226.33%) to row 506, column 15
+2023-03-25 18:33:59,990 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:33:59,990 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,990 - DEBUG - Input values: [0.9093 nan nan nan 0.0203 nan nan]
+2023-03-25 18:33:59,991 - DEBUG - Mapping Long/Short Equity (90.93%) to row 505, column 15
+2023-03-25 18:33:59,991 - DEBUG - Mapping Derivatives (2.03%) to row 509, column 15
+2023-03-25 18:33:59,992 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:33:59,992 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,992 - DEBUG - Input values: [1.007 nan nan nan nan nan nan]
+2023-03-25 18:33:59,992 - DEBUG - Mapping Long/Short Equity (100.70%) to row 505, column 15
+2023-03-25 18:33:59,994 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:33:59,994 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,994 - DEBUG - Input values: [0.9693870391512358 nan nan nan nan nan nan]
+2023-03-25 18:33:59,994 - DEBUG - Mapping Long/Short Equity (96.94%) to row 505, column 15
+2023-03-25 18:33:59,996 - DEBUG - Processing sheet: EVR
+2023-03-25 18:33:59,996 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,996 - DEBUG - Input values: [0.845 nan nan nan nan nan nan]
+2023-03-25 18:33:59,996 - DEBUG - Mapping Long/Short Equity (84.50%) to row 505, column 15
+2023-03-25 18:33:59,997 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:33:59,997 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,998 - DEBUG - Input values: [0.9402 nan nan nan nan nan nan]
+2023-03-25 18:33:59,998 - DEBUG - Mapping Long/Short Equity (94.02%) to row 505, column 14
+2023-03-25 18:33:59,999 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:33:59,999 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:33:59,999 - DEBUG - Input values: [0.91657 0 0 0 0 0 nan]
+2023-03-25 18:34:00,000 - DEBUG - Mapping Long/Short Equity (91.66%) to row 505, column 14
+2023-03-25 18:34:00,000 - DEBUG - Mapping Event Driven/Spec. Sit. (0.00%) to row 506, column 14
+2023-03-25 18:34:00,000 - DEBUG - Mapping Stat. Arbitrage/Quant. (0.00%) to row 507, column 14
+2023-03-25 18:34:00,000 - DEBUG - Mapping Deep Value (0.00%) to row 508, column 14
+2023-03-25 18:34:00,000 - DEBUG - Mapping Derivatives (0.00%) to row 509, column 14
+2023-03-25 18:34:00,000 - DEBUG - Mapping Index Hedging (0.00%) to row 510, column 14
+2023-03-25 18:34:00,001 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:00,001 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:00,002 - DEBUG - Input values: [0.8117 nan nan nan nan nan nan]
+2023-03-25 18:34:00,002 - DEBUG - Mapping Long/Short Equity (81.17%) to row 505, column 14
+2023-03-25 18:34:00,004 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:00,004 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:00,004 - DEBUG - Input values: [0.9907159326987894 0 0 0 0 0 nan]
+2023-03-25 18:34:00,004 - DEBUG - Mapping Long/Short Equity (99.07%) to row 505, column 14
+2023-03-25 18:34:00,005 - DEBUG - Mapping Event Driven/Spec. Sit. (0.00%) to row 506, column 14
+2023-03-25 18:34:00,005 - DEBUG - Mapping Stat. Arbitrage/Quant. (0.00%) to row 507, column 14
+2023-03-25 18:34:00,005 - DEBUG - Mapping Deep Value (0.00%) to row 508, column 14
+2023-03-25 18:34:00,005 - DEBUG - Mapping Derivatives (0.00%) to row 509, column 14
+2023-03-25 18:34:00,006 - DEBUG - Mapping Index Hedging (0.00%) to row 510, column 14
+2023-03-25 18:34:00,007 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:00,007 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:00,007 - DEBUG - Input values: [0.697488515962445 nan nan nan 0.12161148403755506 0 nan]
+2023-03-25 18:34:00,008 - DEBUG - Mapping Long/Short Equity (69.75%) to row 505, column 14
+2023-03-25 18:34:00,008 - DEBUG - Mapping Derivatives (12.16%) to row 509, column 14
+2023-03-25 18:34:00,008 - DEBUG - Mapping Index Hedging (0.00%) to row 510, column 14
+2023-03-25 18:34:00,009 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:00,009 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:00,010 - DEBUG - Input values: [0.5436 nan nan nan nan nan nan]
+2023-03-25 18:34:00,010 - DEBUG - Mapping Long/Short Equity (54.36%) to row 505, column 14
+2023-03-25 18:34:05,311 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:05,311 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:05,311 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,313 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:05,313 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,313 - DEBUG - Input values: [0.2602 nan 0 nan nan nan nan nan nan nan nan 0 nan nan nan nan 0.2602 nan]
+2023-03-25 18:34:05,314 - DEBUG - Mapping Bank Debt/Sr. Secured (26.02%) to row 513, column 15
+2023-03-25 18:34:05,314 - DEBUG - Mapping High Yield/Preferred (0.00%) to row 515, column 15
+2023-03-25 18:34:05,315 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:05,315 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,316 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,317 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:05,317 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:05,318 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:05,319 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:05,319 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,320 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,321 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:05,321 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,322 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,323 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:05,323 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,324 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,325 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:05,325 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:05,325 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:05,327 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:05,327 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:05,327 - DEBUG - Input values: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 nan 0 nan]
+2023-03-25 18:34:05,327 - DEBUG - Mapping Bank Debt/Sr. Secured (0.00%) to row 513, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Subordinated (0.00%) to row 514, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping High Yield/Preferred (0.00%) to row 515, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Stressed/Distressed (0.00%) to row 516, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Post-bank/Credit Equity (0.00%) to row 517, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Trade Claims/Litigation (0.00%) to row 518, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Lease & Asset Backed (0.00%) to row 519, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Direct Lending (0.00%) to row 520, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Small Balance Loans (0.00%) to row 521, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Real Estate/Mortgage (0.00%) to row 522, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping Emerging Markets (0.00%) to row 523, column 14
+2023-03-25 18:34:05,328 - DEBUG - Mapping CDS (mortgage) (0.00%) to row 524, column 14
+2023-03-25 18:34:05,329 - DEBUG - Mapping CDS (invest. grade) (0.00%) to row 525, column 14
+2023-03-25 18:34:05,329 - DEBUG - Mapping CDS (high yield) (0.00%) to row 526, column 14
+2023-03-25 18:34:05,330 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:05,330 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:05,331 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:05,332 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:05,332 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:05,332 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:10,591 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:10,591 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ 'All SPACs are issued in the U.S.; "Geographic Exposure" reflects the region of target.']
+2023-03-25 18:34:10,591 - DEBUG - Input values: [2.2046722232709732 0.08218419526703695 0.01554295528475242
+ 0.008795742463749947 nan 2.311195116286513 nan]
+2023-03-25 18:34:10,592 - DEBUG - Mapping North America (220.47%) to row 537, column 15
+2023-03-25 18:34:10,592 - DEBUG - Mapping Europe/UK (8.22%) to row 538, column 15
+2023-03-25 18:34:10,592 - DEBUG - Mapping Asia (1.55%) to row 539, column 15
+2023-03-25 18:34:10,592 - DEBUG - Mapping Emer. Mkts. (0.88%) to row 540, column 15
+2023-03-25 18:34:10,593 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:10,593 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,594 - DEBUG - Input values: [0.8815 0.2966 0 0.0117 nan 1.1898 nan]
+2023-03-25 18:34:10,594 - DEBUG - Mapping North America (88.15%) to row 537, column 15
+2023-03-25 18:34:10,594 - DEBUG - Mapping Europe/UK (29.66%) to row 538, column 15
+2023-03-25 18:34:10,594 - DEBUG - Mapping Asia (0.00%) to row 539, column 15
+2023-03-25 18:34:10,594 - DEBUG - Mapping Emer. Mkts. (1.17%) to row 540, column 15
+2023-03-25 18:34:10,595 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:10,596 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,596 - DEBUG - Input values: [1.007 nan nan nan nan 1.007 nan]
+2023-03-25 18:34:10,596 - DEBUG - Mapping North America (100.70%) to row 537, column 15
+2023-03-25 18:34:10,597 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:10,597 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,598 - DEBUG - Input values: [0.8785548235738505 0.09083221513428583 0 0 nan 0.9693870387081364 nan]
+2023-03-25 18:34:10,598 - DEBUG - Mapping North America (87.86%) to row 537, column 15
+2023-03-25 18:34:10,598 - DEBUG - Mapping Europe/UK (9.08%) to row 538, column 15
+2023-03-25 18:34:10,598 - DEBUG - Mapping Asia (0.00%) to row 539, column 15
+2023-03-25 18:34:10,598 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 540, column 15
+2023-03-25 18:34:10,599 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:10,600 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,600 - DEBUG - Input values: [0.845 nan nan nan nan 0.845 nan]
+2023-03-25 18:34:10,600 - DEBUG - Mapping North America (84.50%) to row 537, column 15
+2023-03-25 18:34:10,601 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:10,601 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,602 - DEBUG - Input values: [0.6597 0.1195 0.0635 0.0975 nan 0.9401999999999999 nan]
+2023-03-25 18:34:10,602 - DEBUG - Mapping North America (65.97%) to row 537, column 14
+2023-03-25 18:34:10,602 - DEBUG - Mapping Europe/UK (11.95%) to row 538, column 14
+2023-03-25 18:34:10,602 - DEBUG - Mapping Asia (6.35%) to row 539, column 14
+2023-03-25 18:34:10,602 - DEBUG - Mapping Emer. Mkts. (9.75%) to row 540, column 14
+2023-03-25 18:34:10,603 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:10,603 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,604 - DEBUG - Input values: [0.7704 0.14617 0 0 nan 0.91657 nan]
+2023-03-25 18:34:10,604 - DEBUG - Mapping North America (77.04%) to row 537, column 14
+2023-03-25 18:34:10,604 - DEBUG - Mapping Europe/UK (14.62%) to row 538, column 14
+2023-03-25 18:34:10,604 - DEBUG - Mapping Asia (0.00%) to row 539, column 14
+2023-03-25 18:34:10,604 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 540, column 14
+2023-03-25 18:34:10,605 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:10,605 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,606 - DEBUG - Input values: [0.6776 0.0438 0.03 0.0603 nan 0.8117 nan]
+2023-03-25 18:34:10,606 - DEBUG - Mapping North America (67.76%) to row 537, column 14
+2023-03-25 18:34:10,606 - DEBUG - Mapping Europe/UK (4.38%) to row 538, column 14
+2023-03-25 18:34:10,606 - DEBUG - Mapping Asia (3.00%) to row 539, column 14
+2023-03-25 18:34:10,606 - DEBUG - Mapping Emer. Mkts. (6.03%) to row 540, column 14
+2023-03-25 18:34:10,607 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:10,607 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,608 - DEBUG - Input values: [0.7589771083770827 0.23173882432170667 0 0 nan 0.9907159326987893 nan]
+2023-03-25 18:34:10,608 - DEBUG - Mapping North America (75.90%) to row 537, column 14
+2023-03-25 18:34:10,608 - DEBUG - Mapping Europe/UK (23.17%) to row 538, column 14
+2023-03-25 18:34:10,608 - DEBUG - Mapping Asia (0.00%) to row 539, column 14
+2023-03-25 18:34:10,608 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 540, column 14
+2023-03-25 18:34:10,610 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:10,610 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,610 - DEBUG - Input values: [nan nan nan nan nan 0 nan]
+2023-03-25 18:34:10,611 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:10,611 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:10,611 - DEBUG - Input values: [0.4712 0.0724 0 nan nan 0.5436 nan]
+2023-03-25 18:34:10,612 - DEBUG - Mapping North America (47.12%) to row 537, column 14
+2023-03-25 18:34:10,612 - DEBUG - Mapping Europe/UK (7.24%) to row 538, column 14
+2023-03-25 18:34:10,612 - DEBUG - Mapping Asia (0.00%) to row 539, column 14
+2023-03-25 18:34:15,909 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:15,910 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Commun.Services'
+ 'Utilities' 'Index' 'Other*' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,910 - DEBUG - Input values: [0 0 0 0 0 0 0 0 0 0 0 0 2.3111951162865125 nan 2.3111951162865125 nan nan
+ nan 'Long']
+2023-03-25 18:34:15,910 - DEBUG - Mapping Energy (0.00%) to row 542, column 15
+2023-03-25 18:34:15,910 - DEBUG - Mapping Materials (0.00%) to row 543, column 15
+2023-03-25 18:34:15,910 - DEBUG - Mapping Industrials (0.00%) to row 544, column 15
+2023-03-25 18:34:15,910 - DEBUG - Mapping Cons. Disc. (0.00%) to row 545, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Cons. Staples (0.00%) to row 546, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Health Care (0.00%) to row 547, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Financials (0.00%) to row 548, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Info. Tech. (0.00%) to row 550, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Utilities (0.00%) to row 552, column 15
+2023-03-25 18:34:15,911 - DEBUG - Mapping Index (0.00%) to row 553, column 15
+2023-03-25 18:34:15,913 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:15,913 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,913 - DEBUG - Input values: [0.3934 0.1116 0.281 0.0163 0 0.0421 0.0948 0 0.1817 0.0689 0 0 0 nan
+ 1.1898 nan nan nan 'Long']
+2023-03-25 18:34:15,914 - DEBUG - Mapping Energy (39.34%) to row 542, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Materials (11.16%) to row 543, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Industrials (28.10%) to row 544, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Cons. Disc. (1.63%) to row 545, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Cons. Staples (0.00%) to row 546, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Health Care (4.21%) to row 547, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Financials (9.48%) to row 548, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Info. Tech. (18.17%) to row 550, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Utilities (0.00%) to row 552, column 15
+2023-03-25 18:34:15,914 - DEBUG - Mapping Index (0.00%) to row 553, column 15
+2023-03-25 18:34:15,915 - DEBUG - Mapping Other (0.00%) to row 554, column 15
+2023-03-25 18:34:15,916 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:15,916 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,916 - DEBUG - Input values: [0 0 0.389 0.104 0.074 0.223 0 0 0.216 0 0 0 0 nan 1.006 nan nan nan
+ 'Long']
+2023-03-25 18:34:15,917 - DEBUG - Mapping Energy (0.00%) to row 542, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Materials (0.00%) to row 543, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Industrials (38.90%) to row 544, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Cons. Disc. (10.40%) to row 545, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Cons. Staples (7.40%) to row 546, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Health Care (22.30%) to row 547, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Financials (0.00%) to row 548, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Info. Tech. (21.60%) to row 550, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Utilities (0.00%) to row 552, column 15
+2023-03-25 18:34:15,917 - DEBUG - Mapping Index (0.00%) to row 553, column 15
+2023-03-25 18:34:15,918 - DEBUG - Mapping Other (0.00%) to row 554, column 15
+2023-03-25 18:34:15,919 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:15,919 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,919 - DEBUG - Input values: [0.22287955746967966 0.08963118733736353 0.20386185382569405
+ 0.08488369779055616 0 0.04239451652586745 0.11356611579486407 0
+ 0.06135573217658218 0.15081437778752943 0 0 nan nan 0.9693870387081365
+ nan nan nan 'Long']
+2023-03-25 18:34:15,920 - DEBUG - Mapping Energy (22.29%) to row 542, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Materials (8.96%) to row 543, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Industrials (20.39%) to row 544, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Cons. Disc. (8.49%) to row 545, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Cons. Staples (0.00%) to row 546, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Health Care (4.24%) to row 547, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Financials (11.36%) to row 548, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Info. Tech. (6.14%) to row 550, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Utilities (0.00%) to row 552, column 15
+2023-03-25 18:34:15,920 - DEBUG - Mapping Index (0.00%) to row 553, column 15
+2023-03-25 18:34:15,922 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:15,922 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,922 - DEBUG - Input values: [0.03 0.07 0.05 0.13 0.01 0.02 0 0 0.52 0.02 0 0 0 nan 0.8500000000000001
+ nan nan nan 'Long']
+2023-03-25 18:34:15,922 - DEBUG - Mapping Energy (3.00%) to row 542, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Materials (7.00%) to row 543, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Industrials (5.00%) to row 544, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Cons. Disc. (13.00%) to row 545, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Cons. Staples (1.00%) to row 546, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Health Care (2.00%) to row 547, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Financials (0.00%) to row 548, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Info. Tech. (52.00%) to row 550, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Utilities (0.00%) to row 552, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Index (0.00%) to row 553, column 15
+2023-03-25 18:34:15,923 - DEBUG - Mapping Other (0.00%) to row 554, column 15
+2023-03-25 18:34:15,925 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:15,925 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,925 - DEBUG - Input values: [nan nan 0.0411 0.3293 nan nan nan nan 0.3592 0.2106 nan nan nan nan
+ 0.9402 nan nan nan 'Long']
+2023-03-25 18:34:15,926 - DEBUG - Mapping Industrials (4.11%) to row 544, column 14
+2023-03-25 18:34:15,926 - DEBUG - Mapping Cons. Disc. (32.93%) to row 545, column 14
+2023-03-25 18:34:15,926 - DEBUG - Mapping Info. Tech. (35.92%) to row 550, column 14
+2023-03-25 18:34:15,927 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:15,927 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,928 - DEBUG - Input values: [0.09182 0 0.26459 0.22151 0 0.06073 0.07342 0 0.14519 0.05932 0 0 0 nan
+ 0.9165800000000001 nan nan nan 'Long']
+2023-03-25 18:34:15,928 - DEBUG - Mapping Energy (9.18%) to row 542, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Materials (0.00%) to row 543, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Industrials (26.46%) to row 544, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Cons. Disc. (22.15%) to row 545, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Cons. Staples (0.00%) to row 546, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Health Care (6.07%) to row 547, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Financials (7.34%) to row 548, column 14
+2023-03-25 18:34:15,928 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 14
+2023-03-25 18:34:15,929 - DEBUG - Mapping Info. Tech. (14.52%) to row 550, column 14
+2023-03-25 18:34:15,929 - DEBUG - Mapping Utilities (0.00%) to row 552, column 14
+2023-03-25 18:34:15,929 - DEBUG - Mapping Index (0.00%) to row 553, column 14
+2023-03-25 18:34:15,929 - DEBUG - Mapping Other (0.00%) to row 554, column 14
+2023-03-25 18:34:15,930 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:15,930 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,930 - DEBUG - Input values: [0.0338 0.0618 0.1056 0.0971 0.1263 0 0.0902 nan 0.197 0.0999 nan nan nan
+ nan 0.8117 nan nan nan 'Long']
+2023-03-25 18:34:15,931 - DEBUG - Mapping Energy (3.38%) to row 542, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Materials (6.18%) to row 543, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Industrials (10.56%) to row 544, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Cons. Disc. (9.71%) to row 545, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Cons. Staples (12.63%) to row 546, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Health Care (0.00%) to row 547, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Financials (9.02%) to row 548, column 14
+2023-03-25 18:34:15,931 - DEBUG - Mapping Info. Tech. (19.70%) to row 550, column 14
+2023-03-25 18:34:15,933 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:15,933 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,933 - DEBUG - Input values: [0 0 0.09917010263459876 0.06841820525576225 0.07356681462383922 0
+ 0.05074906717863061 0 0.33987024497348023 0.3589414980324783 0 0 0 nan
+ 0.9907159326987893 nan nan nan 'Long']
+2023-03-25 18:34:15,933 - DEBUG - Mapping Energy (0.00%) to row 542, column 14
+2023-03-25 18:34:15,933 - DEBUG - Mapping Materials (0.00%) to row 543, column 14
+2023-03-25 18:34:15,933 - DEBUG - Mapping Industrials (9.92%) to row 544, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Cons. Disc. (6.84%) to row 545, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Cons. Staples (7.36%) to row 546, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Health Care (0.00%) to row 547, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Financials (5.07%) to row 548, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Info. Tech. (33.99%) to row 550, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Utilities (0.00%) to row 552, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Index (0.00%) to row 553, column 14
+2023-03-25 18:34:15,934 - DEBUG - Mapping Other (0.00%) to row 554, column 14
+2023-03-25 18:34:15,935 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:15,936 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,936 - DEBUG - Input values: [0.2608 0.0212 0.0576 0.0011 0.0011 0.1594 0.0516 0 0.0117 0.2412 0 nan
+ 0.0134 nan 0.8190999999999998 nan nan nan 'Long']
+2023-03-25 18:34:15,936 - DEBUG - Mapping Energy (26.08%) to row 542, column 14
+2023-03-25 18:34:15,936 - DEBUG - Mapping Materials (2.12%) to row 543, column 14
+2023-03-25 18:34:15,936 - DEBUG - Mapping Industrials (5.76%) to row 544, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Cons. Disc. (0.11%) to row 545, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Cons. Staples (0.11%) to row 546, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Health Care (15.94%) to row 547, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Financials (5.16%) to row 548, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Real Estate (0.00%) to row 549, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Info. Tech. (1.17%) to row 550, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Utilities (0.00%) to row 552, column 14
+2023-03-25 18:34:15,937 - DEBUG - Mapping Other (1.34%) to row 554, column 14
+2023-03-25 18:34:15,939 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:15,939 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:15,939 - DEBUG - Input values: [nan nan 0.0098 0.1968 0.0966 0.0677 0.0235 nan 0.0095 0.1397 nan nan 0
+ nan 0.5436000000000001 nan nan nan 'Long']
+2023-03-25 18:34:15,939 - DEBUG - Mapping Industrials (0.98%) to row 544, column 14
+2023-03-25 18:34:15,939 - DEBUG - Mapping Cons. Disc. (19.68%) to row 545, column 14
+2023-03-25 18:34:15,939 - DEBUG - Mapping Cons. Staples (9.66%) to row 546, column 14
+2023-03-25 18:34:15,940 - DEBUG - Mapping Health Care (6.77%) to row 547, column 14
+2023-03-25 18:34:15,940 - DEBUG - Mapping Financials (2.35%) to row 548, column 14
+2023-03-25 18:34:15,940 - DEBUG - Mapping Info. Tech. (0.95%) to row 550, column 14
+2023-03-25 18:34:15,940 - DEBUG - Mapping Other (0.00%) to row 554, column 14
+2023-03-25 18:34:21,209 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:21,209 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,209 - DEBUG - Input values: [0 0 2.3111951162865125 nan 2.3111951162865125]
+2023-03-25 18:34:21,209 - DEBUG - Mapping Large Cap (0.00%) to row 556, column 15
+2023-03-25 18:34:21,210 - DEBUG - Mapping Mid Cap (0.00%) to row 557, column 15
+2023-03-25 18:34:21,210 - DEBUG - Mapping Small Cap (231.12%) to row 558, column 15
+2023-03-25 18:34:21,211 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:21,211 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,211 - DEBUG - Input values: [0.6608 0.22585 0.01565 nan 0.9023000000000001]
+2023-03-25 18:34:21,212 - DEBUG - Mapping Large Cap (66.08%) to row 556, column 15
+2023-03-25 18:34:21,212 - DEBUG - Mapping Mid Cap (22.59%) to row 557, column 15
+2023-03-25 18:34:21,212 - DEBUG - Mapping Small Cap (1.57%) to row 558, column 15
+2023-03-25 18:34:21,213 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:21,213 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,214 - DEBUG - Input values: [0.592 0.272 0.143 ' ' 1.007]
+2023-03-25 18:34:21,214 - DEBUG - Mapping Large Cap (59.20%) to row 556, column 15
+2023-03-25 18:34:21,214 - DEBUG - Mapping Mid Cap (27.20%) to row 557, column 15
+2023-03-25 18:34:21,214 - DEBUG - Mapping Small Cap (14.30%) to row 558, column 15
+2023-03-25 18:34:21,215 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:21,216 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,216 - DEBUG - Input values: [0.8421496616427375 0.048854060694219145 0.07838331637117983 nan
+ 0.9693870387081365]
+2023-03-25 18:34:21,216 - DEBUG - Mapping Large Cap (84.21%) to row 556, column 15
+2023-03-25 18:34:21,216 - DEBUG - Mapping Mid Cap (4.89%) to row 557, column 15
+2023-03-25 18:34:21,216 - DEBUG - Mapping Small Cap (7.84%) to row 558, column 15
+2023-03-25 18:34:21,218 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:21,218 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,218 - DEBUG - Input values: [0.03 0.39 0.43 nan 0.8500000000000001]
+2023-03-25 18:34:21,218 - DEBUG - Mapping Large Cap (3.00%) to row 556, column 15
+2023-03-25 18:34:21,218 - DEBUG - Mapping Mid Cap (39.00%) to row 557, column 15
+2023-03-25 18:34:21,218 - DEBUG - Mapping Small Cap (43.00%) to row 558, column 15
+2023-03-25 18:34:21,220 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:21,220 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,220 - DEBUG - Input values: [0.8688 0.0351 0.0363 nan 0.9402]
+2023-03-25 18:34:21,220 - DEBUG - Mapping Large Cap (86.88%) to row 556, column 14
+2023-03-25 18:34:21,220 - DEBUG - Mapping Mid Cap (3.51%) to row 557, column 14
+2023-03-25 18:34:21,220 - DEBUG - Mapping Small Cap (3.63%) to row 558, column 14
+2023-03-25 18:34:21,222 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:21,222 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,222 - DEBUG - Input values: [0.36894000000000005 0.54763 0 nan 0.91657]
+2023-03-25 18:34:21,222 - DEBUG - Mapping Large Cap (36.89%) to row 556, column 14
+2023-03-25 18:34:21,222 - DEBUG - Mapping Mid Cap (54.76%) to row 557, column 14
+2023-03-25 18:34:21,222 - DEBUG - Mapping Small Cap (0.00%) to row 558, column 14
+2023-03-25 18:34:21,224 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:21,224 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,224 - DEBUG - Input values: [0.3164 0.2676 0.2277 nan 0.8117000000000001]
+2023-03-25 18:34:21,224 - DEBUG - Mapping Large Cap (31.64%) to row 556, column 14
+2023-03-25 18:34:21,224 - DEBUG - Mapping Mid Cap (26.76%) to row 557, column 14
+2023-03-25 18:34:21,224 - DEBUG - Mapping Small Cap (22.77%) to row 558, column 14
+2023-03-25 18:34:21,226 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:21,226 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,226 - DEBUG - Input values: [0.6250728564721834 0.25076179602715215 0.11488128019945384 nan
+ 0.9907159326987893]
+2023-03-25 18:34:21,226 - DEBUG - Mapping Large Cap (62.51%) to row 556, column 14
+2023-03-25 18:34:21,226 - DEBUG - Mapping Mid Cap (25.08%) to row 557, column 14
+2023-03-25 18:34:21,226 - DEBUG - Mapping Small Cap (11.49%) to row 558, column 14
+2023-03-25 18:34:21,228 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:21,228 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,228 - DEBUG - Input values: [0.0431 0.4085 0.3676 nan 0.8191999999999999]
+2023-03-25 18:34:21,228 - DEBUG - Mapping Large Cap (4.31%) to row 556, column 14
+2023-03-25 18:34:21,228 - DEBUG - Mapping Mid Cap (40.85%) to row 557, column 14
+2023-03-25 18:34:21,228 - DEBUG - Mapping Small Cap (36.76%) to row 558, column 14
+2023-03-25 18:34:21,230 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:21,230 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:21,230 - DEBUG - Input values: [0.26470000000000005 0.2318 0.0471 nan 0.5436000000000001]
+2023-03-25 18:34:21,230 - DEBUG - Mapping Large Cap (26.47%) to row 556, column 14
+2023-03-25 18:34:21,230 - DEBUG - Mapping Mid Cap (23.18%) to row 557, column 14
+2023-03-25 18:34:21,230 - DEBUG - Mapping Small Cap (4.71%) to row 558, column 14
+2023-03-25 18:34:26,501 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:26,501 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan nan]
+2023-03-25 18:34:26,501 - DEBUG - Input values: [0 0 0 0 nan 0 nan nan]
+2023-03-25 18:34:26,501 - DEBUG - Mapping North America (0.00%) to row 561, column 15
+2023-03-25 18:34:26,501 - DEBUG - Mapping Europe (0.00%) to row 562, column 15
+2023-03-25 18:34:26,501 - DEBUG - Mapping Asia (0.00%) to row 563, column 15
+2023-03-25 18:34:26,502 - DEBUG - Mapping Other/Unknown (0.00%) to row 564, column 15
+2023-03-25 18:34:26,503 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:26,503 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:26,503 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,505 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:26,505 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:26,505 - DEBUG - Input values: [0 0 0 0 nan 0 nan nan]
+2023-03-25 18:34:26,505 - DEBUG - Mapping North America (0.00%) to row 561, column 15
+2023-03-25 18:34:26,505 - DEBUG - Mapping Europe (0.00%) to row 562, column 15
+2023-03-25 18:34:26,505 - DEBUG - Mapping Asia (0.00%) to row 563, column 15
+2023-03-25 18:34:26,506 - DEBUG - Mapping Other/Unknown (0.00%) to row 564, column 15
+2023-03-25 18:34:26,507 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:26,507 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on AUM and Exposures']
+2023-03-25 18:34:26,507 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,509 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:26,509 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:26,509 - DEBUG - Input values: [0 nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,509 - DEBUG - Mapping North America (0.00%) to row 561, column 15
+2023-03-25 18:34:26,511 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:26,511 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:26,511 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,512 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:26,512 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:26,513 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,514 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:26,514 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:26,514 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,516 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:26,516 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:26,516 - DEBUG - Input values: [0 0 0 0 nan 0 nan nan]
+2023-03-25 18:34:26,516 - DEBUG - Mapping North America (0.00%) to row 561, column 14
+2023-03-25 18:34:26,516 - DEBUG - Mapping Europe (0.00%) to row 562, column 14
+2023-03-25 18:34:26,516 - DEBUG - Mapping Asia (0.00%) to row 563, column 14
+2023-03-25 18:34:26,516 - DEBUG - Mapping Other/Unknown (0.00%) to row 564, column 14
+2023-03-25 18:34:26,518 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:26,518 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:26,518 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:26,519 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:26,519 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:26,520 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:31,769 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:31,769 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,770 - DEBUG - Input values: [nan 0 nan nan nan nan nan]
+2023-03-25 18:34:31,770 - DEBUG - Mapping Event Driven/Spec. Sit. (0.00%) to row 571, column 15
+2023-03-25 18:34:31,771 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:31,771 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,772 - DEBUG - Input values: [0.574 nan nan nan 0 nan nan]
+2023-03-25 18:34:31,772 - DEBUG - Mapping Long/Short Equity (57.40%) to row 570, column 15
+2023-03-25 18:34:31,772 - DEBUG - Mapping Derivatives (0.00%) to row 574, column 15
+2023-03-25 18:34:31,773 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:31,773 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,774 - DEBUG - Input values: [0.536 nan nan nan nan nan nan]
+2023-03-25 18:34:31,774 - DEBUG - Mapping Long/Short Equity (53.60%) to row 570, column 15
+2023-03-25 18:34:31,775 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:31,775 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,776 - DEBUG - Input values: [0.5248720355252637 nan nan nan nan nan nan]
+2023-03-25 18:34:31,776 - DEBUG - Mapping Long/Short Equity (52.49%) to row 570, column 15
+2023-03-25 18:34:31,777 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:31,778 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,778 - DEBUG - Input values: [0.365 nan nan nan nan nan nan]
+2023-03-25 18:34:31,778 - DEBUG - Mapping Long/Short Equity (36.50%) to row 570, column 15
+2023-03-25 18:34:31,780 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:31,780 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,780 - DEBUG - Input values: [0 nan nan nan nan nan nan]
+2023-03-25 18:34:31,780 - DEBUG - Mapping Long/Short Equity (0.00%) to row 570, column 14
+2023-03-25 18:34:31,781 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:31,782 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,782 - DEBUG - Input values: [0.3875 0 0 0 0 0 nan]
+2023-03-25 18:34:31,782 - DEBUG - Mapping Long/Short Equity (38.75%) to row 570, column 14
+2023-03-25 18:34:31,782 - DEBUG - Mapping Event Driven/Spec. Sit. (0.00%) to row 571, column 14
+2023-03-25 18:34:31,782 - DEBUG - Mapping Stat. Arbitrage/Quant. (0.00%) to row 572, column 14
+2023-03-25 18:34:31,782 - DEBUG - Mapping Deep Value (0.00%) to row 573, column 14
+2023-03-25 18:34:31,782 - DEBUG - Mapping Derivatives (0.00%) to row 574, column 14
+2023-03-25 18:34:31,782 - DEBUG - Mapping Index Hedging (0.00%) to row 575, column 14
+2023-03-25 18:34:31,784 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:31,784 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,784 - DEBUG - Input values: [0.4197 nan nan nan nan nan nan]
+2023-03-25 18:34:31,784 - DEBUG - Mapping Long/Short Equity (41.97%) to row 570, column 14
+2023-03-25 18:34:31,785 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:31,785 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,786 - DEBUG - Input values: [0.5266510341564927 0 0 0 0 0 nan]
+2023-03-25 18:34:31,786 - DEBUG - Mapping Long/Short Equity (52.67%) to row 570, column 14
+2023-03-25 18:34:31,786 - DEBUG - Mapping Event Driven/Spec. Sit. (0.00%) to row 571, column 14
+2023-03-25 18:34:31,786 - DEBUG - Mapping Stat. Arbitrage/Quant. (0.00%) to row 572, column 14
+2023-03-25 18:34:31,786 - DEBUG - Mapping Deep Value (0.00%) to row 573, column 14
+2023-03-25 18:34:31,786 - DEBUG - Mapping Derivatives (0.00%) to row 574, column 14
+2023-03-25 18:34:31,786 - DEBUG - Mapping Index Hedging (0.00%) to row 575, column 14
+2023-03-25 18:34:31,788 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:31,788 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,788 - DEBUG - Input values: [0.307255341100016 nan nan nan 0.00204465889998401 nan nan]
+2023-03-25 18:34:31,788 - DEBUG - Mapping Long/Short Equity (30.73%) to row 570, column 14
+2023-03-25 18:34:31,788 - DEBUG - Mapping Derivatives (0.20%) to row 574, column 14
+2023-03-25 18:34:31,790 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:31,790 - DEBUG - Input names: ['Long/Short Equity' 'Event Driven/Spec. Sit.' 'Stat. Arbitrage/Quant.'
+ 'Deep Value' 'Derivatives' 'Index Hedging' nan]
+2023-03-25 18:34:31,790 - DEBUG - Input values: [0.4727 nan nan nan nan nan nan]
+2023-03-25 18:34:31,790 - DEBUG - Mapping Long/Short Equity (47.27%) to row 570, column 14
+2023-03-25 18:34:37,061 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:37,062 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:37,062 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,063 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:37,063 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,064 - DEBUG - Input values: [0.0734 nan 0 nan nan nan nan nan nan nan nan 0 nan 0 nan nan 0.0734 nan]
+2023-03-25 18:34:37,064 - DEBUG - Mapping Bank Debt/Sr. Secured (7.34%) to row 578, column 15
+2023-03-25 18:34:37,064 - DEBUG - Mapping High Yield/Preferred (0.00%) to row 580, column 15
+2023-03-25 18:34:37,064 - DEBUG - Mapping CDS (invest. grade) (0.00%) to row 590, column 15
+2023-03-25 18:34:37,065 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:37,065 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,066 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,067 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:37,067 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:37,067 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:37,069 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:37,069 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,069 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,071 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:37,071 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,071 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,073 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:37,073 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,073 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,075 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:37,075 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:37,075 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan]
+2023-03-25 18:34:37,077 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:37,077 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank/Credit Equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate/Mortgage' 'Emerging Markets' 'Treasuries/Sovereign'
+ 'CDS (mortgage)' 'CDS (invest. grade)' 'CDS (high yield)' nan
+ 'Total Credit' nan]
+2023-03-25 18:34:37,077 - DEBUG - Input values: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 nan 0 nan]
+2023-03-25 18:34:37,077 - DEBUG - Mapping Bank Debt/Sr. Secured (0.00%) to row 578, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Subordinated (0.00%) to row 579, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping High Yield/Preferred (0.00%) to row 580, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Stressed/Distressed (0.00%) to row 581, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Post-bank/Credit Equity (0.00%) to row 582, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Trade Claims/Litigation (0.00%) to row 583, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Lease & Asset Backed (0.00%) to row 584, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Direct Lending (0.00%) to row 585, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Small Balance Loans (0.00%) to row 586, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Real Estate/Mortgage (0.00%) to row 587, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping Emerging Markets (0.00%) to row 588, column 14
+2023-03-25 18:34:37,078 - DEBUG - Mapping CDS (mortgage) (0.00%) to row 589, column 14
+2023-03-25 18:34:37,079 - DEBUG - Mapping CDS (invest. grade) (0.00%) to row 590, column 14
+2023-03-25 18:34:37,079 - DEBUG - Mapping CDS (high yield) (0.00%) to row 591, column 14
+2023-03-25 18:34:37,080 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:37,080 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:37,080 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:37,082 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:37,082 - DEBUG - Input names: ['Bank Debt/Sr. Secured' 'Mezzanine/Subordinated' 'High Yield/Preferred'
+ 'Stressed/Distressed' 'Post-bank. equity' 'Trade Claims/Litigation'
+ 'Lease & Asset Backed' 'Direct Lending' 'Small Balance Loans'
+ 'Real Estate' 'Emerging Markets' 'Treasuries/Sovereign' 'CDS (mortgage)'
+ 'CDS (invest. grade)' 'CDS (high yield)' nan 'Total Credit' nan]
+2023-03-25 18:34:37,082 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan nan 0 nan]
+2023-03-25 18:34:42,293 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:42,293 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ 'All SPACs are issued in the U.S.; "Geographic Exposure" reflects the region of target.']
+2023-03-25 18:34:42,293 - DEBUG - Input values: [nan nan nan nan nan 0 nan]
+2023-03-25 18:34:42,295 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:42,295 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,295 - DEBUG - Input values: [0.528 0.0272 0.0922 0 nan 0.6474 nan]
+2023-03-25 18:34:42,295 - DEBUG - Mapping North America (52.80%) to row 602, column 15
+2023-03-25 18:34:42,295 - DEBUG - Mapping Europe/UK (2.72%) to row 603, column 15
+2023-03-25 18:34:42,295 - DEBUG - Mapping Asia (9.22%) to row 604, column 15
+2023-03-25 18:34:42,295 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 605, column 15
+2023-03-25 18:34:42,297 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:42,297 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,297 - DEBUG - Input values: [0.536 nan nan nan nan 0.536 nan]
+2023-03-25 18:34:42,297 - DEBUG - Mapping North America (53.60%) to row 602, column 15
+2023-03-25 18:34:42,299 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:42,299 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,299 - DEBUG - Input values: [0.4371762223017234 0.06751780085790357 0.020178011811762684 0 nan
+ 0.5248720349713897 nan]
+2023-03-25 18:34:42,300 - DEBUG - Mapping North America (43.72%) to row 602, column 15
+2023-03-25 18:34:42,300 - DEBUG - Mapping Europe/UK (6.75%) to row 603, column 15
+2023-03-25 18:34:42,300 - DEBUG - Mapping Asia (2.02%) to row 604, column 15
+2023-03-25 18:34:42,300 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 605, column 15
+2023-03-25 18:34:42,302 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:42,302 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,302 - DEBUG - Input values: [0.358 0.007 nan nan nan 0.365 nan]
+2023-03-25 18:34:42,302 - DEBUG - Mapping North America (35.80%) to row 602, column 15
+2023-03-25 18:34:42,302 - DEBUG - Mapping Europe/UK (0.70%) to row 603, column 15
+2023-03-25 18:34:42,304 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:42,304 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,304 - DEBUG - Input values: [0 0 0 0 nan 0 nan]
+2023-03-25 18:34:42,304 - DEBUG - Mapping North America (0.00%) to row 602, column 14
+2023-03-25 18:34:42,304 - DEBUG - Mapping Europe/UK (0.00%) to row 603, column 14
+2023-03-25 18:34:42,304 - DEBUG - Mapping Asia (0.00%) to row 604, column 14
+2023-03-25 18:34:42,304 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 605, column 14
+2023-03-25 18:34:42,306 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:42,306 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,306 - DEBUG - Input values: [0.33392 0.05358 0 0 nan 0.3875 nan]
+2023-03-25 18:34:42,306 - DEBUG - Mapping North America (33.39%) to row 602, column 14
+2023-03-25 18:34:42,306 - DEBUG - Mapping Europe/UK (5.36%) to row 603, column 14
+2023-03-25 18:34:42,307 - DEBUG - Mapping Asia (0.00%) to row 604, column 14
+2023-03-25 18:34:42,307 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 605, column 14
+2023-03-25 18:34:42,308 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:42,308 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,308 - DEBUG - Input values: [0.3711 0.0486 0 nan nan 0.41969999999999996 nan]
+2023-03-25 18:34:42,309 - DEBUG - Mapping North America (37.11%) to row 602, column 14
+2023-03-25 18:34:42,309 - DEBUG - Mapping Europe/UK (4.86%) to row 603, column 14
+2023-03-25 18:34:42,309 - DEBUG - Mapping Asia (0.00%) to row 604, column 14
+2023-03-25 18:34:42,310 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:42,310 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,310 - DEBUG - Input values: [0.4253969854937481 0.10125404866274461 0 0 nan 0.5266510341564927 nan]
+2023-03-25 18:34:42,310 - DEBUG - Mapping North America (42.54%) to row 602, column 14
+2023-03-25 18:34:42,311 - DEBUG - Mapping Europe/UK (10.13%) to row 603, column 14
+2023-03-25 18:34:42,311 - DEBUG - Mapping Asia (0.00%) to row 604, column 14
+2023-03-25 18:34:42,311 - DEBUG - Mapping Emer. Mkts. (0.00%) to row 605, column 14
+2023-03-25 18:34:42,312 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:42,312 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,312 - DEBUG - Input values: [nan nan nan nan nan 0 nan]
+2023-03-25 18:34:42,314 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:42,314 - DEBUG - Input names: ['North America' 'Europe/UK' 'Asia' 'Emer. Mkts.' nan 'Total Portfolio'
+ nan]
+2023-03-25 18:34:42,314 - DEBUG - Input values: [0.4026 0.0395 0.0306 nan nan 0.4727 nan]
+2023-03-25 18:34:42,314 - DEBUG - Mapping North America (40.26%) to row 602, column 14
+2023-03-25 18:34:42,314 - DEBUG - Mapping Europe/UK (3.95%) to row 603, column 14
+2023-03-25 18:34:42,314 - DEBUG - Mapping Asia (3.06%) to row 604, column 14
+2023-03-25 18:34:47,577 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:47,577 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Commun.Services'
+ 'Utilities' 'Index' 'Other*' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,578 - DEBUG - Input values: [0 0 0 0 0 0 0 0 0 0 0 0 0 nan 0 nan nan nan 'Short']
+2023-03-25 18:34:47,578 - DEBUG - Mapping Energy (0.00%) to row 607, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Materials (0.00%) to row 608, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Industrials (0.00%) to row 609, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Cons. Disc. (0.00%) to row 610, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Cons. Staples (0.00%) to row 611, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Health Care (0.00%) to row 612, column 15
+2023-03-25 18:34:47,578 - DEBUG - Mapping Financials (0.00%) to row 613, column 15
+2023-03-25 18:34:47,579 - DEBUG - Mapping Real Estate (0.00%) to row 614, column 15
+2023-03-25 18:34:47,579 - DEBUG - Mapping Info. Tech. (0.00%) to row 615, column 15
+2023-03-25 18:34:47,579 - DEBUG - Mapping Utilities (0.00%) to row 617, column 15
+2023-03-25 18:34:47,579 - DEBUG - Mapping Index (0.00%) to row 618, column 15
+2023-03-25 18:34:47,580 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:47,580 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,580 - DEBUG - Input values: [0 0.0307 0.0697 0.1807 0.0409 0 0.0366 0.0225 0.2113 0.0228 0 0.0322 0
+ nan 0.6474000000000001 nan nan nan 'Short']
+2023-03-25 18:34:47,581 - DEBUG - Mapping Energy (0.00%) to row 607, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Materials (3.07%) to row 608, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Industrials (6.97%) to row 609, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Cons. Disc. (18.07%) to row 610, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Cons. Staples (4.09%) to row 611, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Health Care (0.00%) to row 612, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Financials (3.66%) to row 613, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Real Estate (2.25%) to row 614, column 15
+2023-03-25 18:34:47,581 - DEBUG - Mapping Info. Tech. (21.13%) to row 615, column 15
+2023-03-25 18:34:47,582 - DEBUG - Mapping Utilities (0.00%) to row 617, column 15
+2023-03-25 18:34:47,582 - DEBUG - Mapping Index (3.22%) to row 618, column 15
+2023-03-25 18:34:47,582 - DEBUG - Mapping Other (0.00%) to row 619, column 15
+2023-03-25 18:34:47,583 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:47,583 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,583 - DEBUG - Input values: [0 0 0.277 0.103 0.052 0.064 0.03 0 0.01 0 0 0 0 nan 0.536 nan nan nan
+ 'Short']
+2023-03-25 18:34:47,584 - DEBUG - Mapping Energy (0.00%) to row 607, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Materials (0.00%) to row 608, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Industrials (27.70%) to row 609, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Cons. Disc. (10.30%) to row 610, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Cons. Staples (5.20%) to row 611, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Health Care (6.40%) to row 612, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Financials (3.00%) to row 613, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Real Estate (0.00%) to row 614, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Info. Tech. (1.00%) to row 615, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Utilities (0.00%) to row 617, column 15
+2023-03-25 18:34:47,584 - DEBUG - Mapping Index (0.00%) to row 618, column 15
+2023-03-25 18:34:47,585 - DEBUG - Mapping Other (0.00%) to row 619, column 15
+2023-03-25 18:34:47,586 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:47,586 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,586 - DEBUG - Input values: [0 0.0510636155890239 0.09077803937574257 0.10291848637319792
+ 0.10170336628457065 0.0024409482969343305 0.014386858915580617 0
+ 0.11470812113477806 0 0 0.046872599001561654 nan nan 0.5248720349713897
+ nan nan nan 'Short']
+2023-03-25 18:34:47,587 - DEBUG - Mapping Energy (0.00%) to row 607, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Materials (5.11%) to row 608, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Industrials (9.08%) to row 609, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Cons. Disc. (10.29%) to row 610, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Cons. Staples (10.17%) to row 611, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Health Care (0.24%) to row 612, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Financials (1.44%) to row 613, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Real Estate (0.00%) to row 614, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Info. Tech. (11.47%) to row 615, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Utilities (0.00%) to row 617, column 15
+2023-03-25 18:34:47,587 - DEBUG - Mapping Index (4.69%) to row 618, column 15
+2023-03-25 18:34:47,589 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:47,589 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,589 - DEBUG - Input values: [0 0 0.11 0.11 0.01 0.02 0.02 0.01 0.08 0.01 0 0 0 nan 0.37000000000000005
+ nan nan nan 'Short']
+2023-03-25 18:34:47,589 - DEBUG - Mapping Energy (0.00%) to row 607, column 15
+2023-03-25 18:34:47,589 - DEBUG - Mapping Materials (0.00%) to row 608, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Industrials (11.00%) to row 609, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Cons. Disc. (11.00%) to row 610, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Cons. Staples (1.00%) to row 611, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Health Care (2.00%) to row 612, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Financials (2.00%) to row 613, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Real Estate (1.00%) to row 614, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Info. Tech. (8.00%) to row 615, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Utilities (0.00%) to row 617, column 15
+2023-03-25 18:34:47,590 - DEBUG - Mapping Index (0.00%) to row 618, column 15
+2023-03-25 18:34:47,591 - DEBUG - Mapping Other (0.00%) to row 619, column 15
+2023-03-25 18:34:47,592 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:47,592 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,592 - DEBUG - Input values: [nan nan nan nan nan nan nan nan nan nan nan nan nan nan 0 nan nan nan
+ 'Short']
+2023-03-25 18:34:47,594 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:47,594 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,594 - DEBUG - Input values: [0 0.00628 0.12356 0.11 0.02557 0 0.02918 0 0.07678 0 0 0.01614 0 nan
+ 0.38750999999999997 nan nan nan 'Short']
+2023-03-25 18:34:47,594 - DEBUG - Mapping Energy (0.00%) to row 607, column 14
+2023-03-25 18:34:47,594 - DEBUG - Mapping Materials (0.63%) to row 608, column 14
+2023-03-25 18:34:47,594 - DEBUG - Mapping Industrials (12.36%) to row 609, column 14
+2023-03-25 18:34:47,594 - DEBUG - Mapping Cons. Disc. (11.00%) to row 610, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Cons. Staples (2.56%) to row 611, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Health Care (0.00%) to row 612, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Financials (2.92%) to row 613, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Real Estate (0.00%) to row 614, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Info. Tech. (7.68%) to row 615, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Utilities (0.00%) to row 617, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Index (1.61%) to row 618, column 14
+2023-03-25 18:34:47,595 - DEBUG - Mapping Other (0.00%) to row 619, column 14
+2023-03-25 18:34:47,596 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:47,596 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,597 - DEBUG - Input values: [nan nan 0.0062 0.1461 0.0518 0 0.0781 nan 0.0889 0.0486 nan nan nan nan
+ 0.41969999999999996 nan nan nan 'Short']
+2023-03-25 18:34:47,597 - DEBUG - Mapping Industrials (0.62%) to row 609, column 14
+2023-03-25 18:34:47,597 - DEBUG - Mapping Cons. Disc. (14.61%) to row 610, column 14
+2023-03-25 18:34:47,597 - DEBUG - Mapping Cons. Staples (5.18%) to row 611, column 14
+2023-03-25 18:34:47,597 - DEBUG - Mapping Health Care (0.00%) to row 612, column 14
+2023-03-25 18:34:47,597 - DEBUG - Mapping Financials (7.81%) to row 613, column 14
+2023-03-25 18:34:47,597 - DEBUG - Mapping Info. Tech. (8.89%) to row 615, column 14
+2023-03-25 18:34:47,599 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:47,599 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,599 - DEBUG - Input values: [0 0 0.0403401336902951 0.20416524429561064 0.07219125153205737 0 0 0
+ 0.17678727070770037 0.03316713393082925 0 0 0 nan 0.5266510341564927 nan
+ nan nan 'Short']
+2023-03-25 18:34:47,599 - DEBUG - Mapping Energy (0.00%) to row 607, column 14
+2023-03-25 18:34:47,599 - DEBUG - Mapping Materials (0.00%) to row 608, column 14
+2023-03-25 18:34:47,599 - DEBUG - Mapping Industrials (4.03%) to row 609, column 14
+2023-03-25 18:34:47,599 - DEBUG - Mapping Cons. Disc. (20.42%) to row 610, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Cons. Staples (7.22%) to row 611, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Health Care (0.00%) to row 612, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Financials (0.00%) to row 613, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Real Estate (0.00%) to row 614, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Info. Tech. (17.68%) to row 615, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Utilities (0.00%) to row 617, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Index (0.00%) to row 618, column 14
+2023-03-25 18:34:47,600 - DEBUG - Mapping Other (0.00%) to row 619, column 14
+2023-03-25 18:34:47,601 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:47,601 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,602 - DEBUG - Input values: [0.0139 0.031 0.0343 0.0372 0.0372 0.0565 0.0089 0.0024 0.002 0.0011 0 nan
+ 0.0847 nan 0.3092 nan nan nan 'Short']
+2023-03-25 18:34:47,602 - DEBUG - Mapping Energy (1.39%) to row 607, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Materials (3.10%) to row 608, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Industrials (3.43%) to row 609, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Cons. Disc. (3.72%) to row 610, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Cons. Staples (3.72%) to row 611, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Health Care (5.65%) to row 612, column 14
+2023-03-25 18:34:47,602 - DEBUG - Mapping Financials (0.89%) to row 613, column 14
+2023-03-25 18:34:47,603 - DEBUG - Mapping Real Estate (0.24%) to row 614, column 14
+2023-03-25 18:34:47,603 - DEBUG - Mapping Info. Tech. (0.20%) to row 615, column 14
+2023-03-25 18:34:47,603 - DEBUG - Mapping Utilities (0.00%) to row 617, column 14
+2023-03-25 18:34:47,603 - DEBUG - Mapping Other (8.47%) to row 619, column 14
+2023-03-25 18:34:47,604 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:47,604 - DEBUG - Input names: ['Energy' 'Materials' 'Industrials' 'Cons. Disc.' 'Cons. Staples'
+ 'Health Care' 'Financials' 'Real Estate' 'Info. Tech.' 'Comm. Svcs.'
+ 'Utilities' 'Index' 'Other' nan 'Total Portfolio' nan
+ 'MARKET CAP EXPOSURE' nan nan]
+2023-03-25 18:34:47,604 - DEBUG - Input values: [nan nan 0 0.3112 0.0257 0 0 nan 0.0308 0.0516 nan nan 0.0516 nan
+ 0.47089999999999993 nan nan nan 'Short']
+2023-03-25 18:34:47,605 - DEBUG - Mapping Industrials (0.00%) to row 609, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Cons. Disc. (31.12%) to row 610, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Cons. Staples (2.57%) to row 611, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Health Care (0.00%) to row 612, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Financials (0.00%) to row 613, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Info. Tech. (3.08%) to row 615, column 14
+2023-03-25 18:34:47,605 - DEBUG - Mapping Other (5.16%) to row 619, column 14
+2023-03-25 18:34:52,813 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:52,814 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,814 - DEBUG - Input values: [0 0 0 nan 0]
+2023-03-25 18:34:52,814 - DEBUG - Mapping Large Cap (0.00%) to row 621, column 15
+2023-03-25 18:34:52,814 - DEBUG - Mapping Mid Cap (0.00%) to row 622, column 15
+2023-03-25 18:34:52,814 - DEBUG - Mapping Small Cap (0.00%) to row 623, column 15
+2023-03-25 18:34:52,816 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:52,816 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,816 - DEBUG - Input values: [0.40575 0.1582 0.010049999999999998 nan 0.574]
+2023-03-25 18:34:52,816 - DEBUG - Mapping Large Cap (40.58%) to row 621, column 15
+2023-03-25 18:34:52,816 - DEBUG - Mapping Mid Cap (15.82%) to row 622, column 15
+2023-03-25 18:34:52,816 - DEBUG - Mapping Small Cap (1.00%) to row 623, column 15
+2023-03-25 18:34:52,818 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:52,818 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,818 - DEBUG - Input values: [0.241 0.22 0.075 nan 0.5359999999999999]
+2023-03-25 18:34:52,819 - DEBUG - Mapping Large Cap (24.10%) to row 621, column 15
+2023-03-25 18:34:52,819 - DEBUG - Mapping Mid Cap (22.00%) to row 622, column 15
+2023-03-25 18:34:52,819 - DEBUG - Mapping Small Cap (7.50%) to row 623, column 15
+2023-03-25 18:34:52,820 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:52,820 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,820 - DEBUG - Input values: [0.3720285850785865 0.14559352101085551 0.007249928881947672 nan
+ 0.5248720349713897]
+2023-03-25 18:34:52,821 - DEBUG - Mapping Large Cap (37.20%) to row 621, column 15
+2023-03-25 18:34:52,821 - DEBUG - Mapping Mid Cap (14.56%) to row 622, column 15
+2023-03-25 18:34:52,821 - DEBUG - Mapping Small Cap (0.72%) to row 623, column 15
+2023-03-25 18:34:52,822 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:52,822 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,823 - DEBUG - Input values: [0.1 0.2 0.07 nan 0.37000000000000005]
+2023-03-25 18:34:52,823 - DEBUG - Mapping Large Cap (10.00%) to row 621, column 15
+2023-03-25 18:34:52,823 - DEBUG - Mapping Mid Cap (20.00%) to row 622, column 15
+2023-03-25 18:34:52,823 - DEBUG - Mapping Small Cap (7.00%) to row 623, column 15
+2023-03-25 18:34:52,824 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:52,824 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,825 - DEBUG - Input values: [nan nan nan nan 0]
+2023-03-25 18:34:52,826 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:52,826 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,826 - DEBUG - Input values: [0.23423 0.11111 0.04217 nan 0.38750999999999997]
+2023-03-25 18:34:52,827 - DEBUG - Mapping Large Cap (23.42%) to row 621, column 14
+2023-03-25 18:34:52,827 - DEBUG - Mapping Mid Cap (11.11%) to row 622, column 14
+2023-03-25 18:34:52,827 - DEBUG - Mapping Small Cap (4.22%) to row 623, column 14
+2023-03-25 18:34:52,828 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:52,828 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,828 - DEBUG - Input values: [0.1603 0.1324 0.127 nan 0.41969999999999996]
+2023-03-25 18:34:52,829 - DEBUG - Mapping Large Cap (16.03%) to row 621, column 14
+2023-03-25 18:34:52,829 - DEBUG - Mapping Mid Cap (13.24%) to row 622, column 14
+2023-03-25 18:34:52,829 - DEBUG - Mapping Small Cap (12.70%) to row 623, column 14
+2023-03-25 18:34:52,830 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:52,830 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,830 - DEBUG - Input values: [0.11240850563490411 0.26225182142339815 0.15199070709819051 nan
+ 0.5266510341564927]
+2023-03-25 18:34:52,830 - DEBUG - Mapping Large Cap (11.24%) to row 621, column 14
+2023-03-25 18:34:52,831 - DEBUG - Mapping Mid Cap (26.23%) to row 622, column 14
+2023-03-25 18:34:52,831 - DEBUG - Mapping Small Cap (15.20%) to row 623, column 14
+2023-03-25 18:34:52,832 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:52,832 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,832 - DEBUG - Input values: [0.06665 0.1386 0.10395 nan 0.3092]
+2023-03-25 18:34:52,833 - DEBUG - Mapping Large Cap (6.67%) to row 621, column 14
+2023-03-25 18:34:52,833 - DEBUG - Mapping Mid Cap (13.86%) to row 622, column 14
+2023-03-25 18:34:52,833 - DEBUG - Mapping Small Cap (10.39%) to row 623, column 14
+2023-03-25 18:34:52,834 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:52,834 - DEBUG - Input names: ['Large Cap' 'Mid Cap' 'Small Cap' nan 'Total Portfolio']
+2023-03-25 18:34:52,834 - DEBUG - Input values: [0.2587 0.1238 0.0903 nan 0.47279999999999994]
+2023-03-25 18:34:52,835 - DEBUG - Mapping Large Cap (25.87%) to row 621, column 14
+2023-03-25 18:34:52,835 - DEBUG - Mapping Mid Cap (12.38%) to row 622, column 14
+2023-03-25 18:34:52,835 - DEBUG - Mapping Small Cap (9.03%) to row 623, column 14
+2023-03-25 18:34:58,123 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:34:58,123 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan nan]
+2023-03-25 18:34:58,123 - DEBUG - Input values: [0 0.002 0 0 nan 0.002 nan nan]
+2023-03-25 18:34:58,123 - DEBUG - Mapping North America (0.00%) to row 626, column 15
+2023-03-25 18:34:58,123 - DEBUG - Mapping Europe (0.20%) to row 627, column 15
+2023-03-25 18:34:58,124 - DEBUG - Mapping Asia (0.00%) to row 628, column 15
+2023-03-25 18:34:58,124 - DEBUG - Mapping Other/Unknown (0.00%) to row 629, column 15
+2023-03-25 18:34:58,125 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:34:58,125 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:58,125 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,127 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:34:58,127 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:58,127 - DEBUG - Input values: [0 0 0 0 nan 0 nan nan]
+2023-03-25 18:34:58,127 - DEBUG - Mapping North America (0.00%) to row 626, column 15
+2023-03-25 18:34:58,127 - DEBUG - Mapping Europe (0.00%) to row 627, column 15
+2023-03-25 18:34:58,128 - DEBUG - Mapping Asia (0.00%) to row 628, column 15
+2023-03-25 18:34:58,128 - DEBUG - Mapping Other/Unknown (0.00%) to row 629, column 15
+2023-03-25 18:34:58,129 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:34:58,129 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on AUM and Exposures']
+2023-03-25 18:34:58,129 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,131 - DEBUG - Processing sheet: EVR
+2023-03-25 18:34:58,131 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:58,131 - DEBUG - Input values: [0 0 nan nan nan 0 nan nan]
+2023-03-25 18:34:58,131 - DEBUG - Mapping North America (0.00%) to row 626, column 15
+2023-03-25 18:34:58,131 - DEBUG - Mapping Europe (0.00%) to row 627, column 15
+2023-03-25 18:34:58,132 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:34:58,132 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:58,133 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,134 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:34:58,134 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:58,134 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,136 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:34:58,136 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:58,136 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,137 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:34:58,137 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure']
+2023-03-25 18:34:58,138 - DEBUG - Input values: [0 0 0 0 nan 0 nan nan]
+2023-03-25 18:34:58,138 - DEBUG - Mapping North America (0.00%) to row 626, column 14
+2023-03-25 18:34:58,138 - DEBUG - Mapping Europe (0.00%) to row 627, column 14
+2023-03-25 18:34:58,138 - DEBUG - Mapping Asia (0.00%) to row 628, column 14
+2023-03-25 18:34:58,138 - DEBUG - Mapping Other/Unknown (0.00%) to row 629, column 14
+2023-03-25 18:34:58,139 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:34:58,139 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:58,139 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:34:58,141 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:34:58,141 - DEBUG - Input names: ['North America' 'Europe' 'Asia' 'Other/Unknown' nan 'Total' nan
+ 'Notes on Exposure and AUM']
+2023-03-25 18:34:58,141 - DEBUG - Input values: [nan nan nan nan nan 0 nan nan]
+2023-03-25 18:35:03,354 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:35:03,354 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,354 - DEBUG - Input values: [nan 2.3111951162865125]
+2023-03-25 18:35:03,356 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:35:03,356 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,356 - DEBUG - Input values: [nan 1.1898]
+2023-03-25 18:35:03,358 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:35:03,358 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,358 - DEBUG - Input values: [nan 1.007]
+2023-03-25 18:35:03,359 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:35:03,359 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,359 - DEBUG - Input values: [nan 0.9693870391512358]
+2023-03-25 18:35:03,361 - DEBUG - Processing sheet: EVR
+2023-03-25 18:35:03,361 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,361 - DEBUG - Input values: [nan 0.845]
+2023-03-25 18:35:03,363 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:35:03,363 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,364 - DEBUG - Input values: [nan 0.9402]
+2023-03-25 18:35:03,365 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:35:03,366 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,366 - DEBUG - Input values: [nan 0.91657]
+2023-03-25 18:35:03,367 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:35:03,367 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,368 - DEBUG - Input values: [nan 0.8117]
+2023-03-25 18:35:03,369 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:35:03,369 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,369 - DEBUG - Input values: [nan 0.9907159326987894]
+2023-03-25 18:35:03,371 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:35:03,371 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,371 - DEBUG - Input values: [nan 0.8191]
+2023-03-25 18:35:03,372 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:35:03,372 - DEBUG - Input names: [nan 'Total Portfolio']
+2023-03-25 18:35:03,373 - DEBUG - Input values: [nan 0.5436]
+2023-03-25 18:35:08,606 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:35:08,606 - DEBUG - Input names: []
+2023-03-25 18:35:08,606 - DEBUG - Input values: []
+2023-03-25 18:35:08,608 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:35:08,608 - DEBUG - Input names: []
+2023-03-25 18:35:08,608 - DEBUG - Input values: []
+2023-03-25 18:35:08,609 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:35:08,610 - DEBUG - Input names: []
+2023-03-25 18:35:08,610 - DEBUG - Input values: []
+2023-03-25 18:35:08,611 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:35:08,612 - DEBUG - Input names: []
+2023-03-25 18:35:08,612 - DEBUG - Input values: []
+2023-03-25 18:35:08,613 - DEBUG - Processing sheet: EVR
+2023-03-25 18:35:08,613 - DEBUG - Input names: []
+2023-03-25 18:35:08,613 - DEBUG - Input values: []
+2023-03-25 18:35:08,614 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:35:08,614 - DEBUG - Input names: []
+2023-03-25 18:35:08,614 - DEBUG - Input values: []
+2023-03-25 18:35:08,616 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:35:08,616 - DEBUG - Input names: []
+2023-03-25 18:35:08,616 - DEBUG - Input values: []
+2023-03-25 18:35:08,617 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:35:08,617 - DEBUG - Input names: []
+2023-03-25 18:35:08,617 - DEBUG - Input values: []
+2023-03-25 18:35:08,619 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:35:08,619 - DEBUG - Input names: []
+2023-03-25 18:35:08,619 - DEBUG - Input values: []
+2023-03-25 18:35:08,620 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:35:08,620 - DEBUG - Input names: []
+2023-03-25 18:35:08,620 - DEBUG - Input values: []
+2023-03-25 18:35:08,622 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:35:08,622 - DEBUG - Input names: []
+2023-03-25 18:35:08,622 - DEBUG - Input values: []
+2023-03-25 18:35:13,887 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:35:13,887 - DEBUG - Input names: ['Unadjusted Portfolio' 'Sovereign']
+2023-03-25 18:35:13,888 - DEBUG - Input values: [2.3111951162865125 0]
+2023-03-25 18:35:13,888 - DEBUG - Mapping Unadjusted Portfolio (231.12%) to row 534, column 15
+2023-03-25 18:35:13,889 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:35:13,889 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,889 - DEBUG - Input values: [1.1695 0]
+2023-03-25 18:35:13,890 - DEBUG - Mapping Unadjusted Portfolio (116.95%) to row 534, column 15
+2023-03-25 18:35:13,891 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:35:13,891 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,891 - DEBUG - Input values: [1.007 0]
+2023-03-25 18:35:13,891 - DEBUG - Mapping Unadjusted Portfolio (100.70%) to row 534, column 15
+2023-03-25 18:35:13,893 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:35:13,893 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,893 - DEBUG - Input values: [0.9693870391512358 0]
+2023-03-25 18:35:13,894 - DEBUG - Mapping Unadjusted Portfolio (96.94%) to row 534, column 15
+2023-03-25 18:35:13,895 - DEBUG - Processing sheet: EVR
+2023-03-25 18:35:13,895 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,895 - DEBUG - Input values: [0.845 0]
+2023-03-25 18:35:13,895 - DEBUG - Mapping Unadjusted Portfolio (84.50%) to row 534, column 15
+2023-03-25 18:35:13,897 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:35:13,897 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,897 - DEBUG - Input values: [0.9402 0]
+2023-03-25 18:35:13,897 - DEBUG - Mapping Unadjusted Portfolio (94.02%) to row 534, column 14
+2023-03-25 18:35:13,899 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:35:13,899 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,899 - DEBUG - Input values: [0.91657 0]
+2023-03-25 18:35:13,899 - DEBUG - Mapping Unadjusted Portfolio (91.66%) to row 534, column 14
+2023-03-25 18:35:13,901 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:35:13,901 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,901 - DEBUG - Input values: [0.8117 0]
+2023-03-25 18:35:13,901 - DEBUG - Mapping Unadjusted Portfolio (81.17%) to row 534, column 14
+2023-03-25 18:35:13,902 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:35:13,902 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,903 - DEBUG - Input values: [0.9907159326987894 0]
+2023-03-25 18:35:13,903 - DEBUG - Mapping Unadjusted Portfolio (99.07%) to row 534, column 14
+2023-03-25 18:35:13,904 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:35:13,904 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,904 - DEBUG - Input values: [0.697488515962445 0]
+2023-03-25 18:35:13,904 - DEBUG - Mapping Unadjusted Portfolio (69.75%) to row 534, column 14
+2023-03-25 18:35:13,906 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:35:13,906 - DEBUG - Input names: ['Unadjusted Portfolio' 'Tail Risk Hedging']
+2023-03-25 18:35:13,906 - DEBUG - Input values: [0.5436 0]
+2023-03-25 18:35:13,906 - DEBUG - Mapping Unadjusted Portfolio (54.36%) to row 534, column 14
+2023-03-25 18:35:19,155 - DEBUG - Processing sheet: Fir Tree SPAC
+2023-03-25 18:35:19,156 - DEBUG - Input names: []
+2023-03-25 18:35:19,156 - DEBUG - Input values: []
+2023-03-25 18:35:19,157 - DEBUG - Processing sheet: Hiddenite
+2023-03-25 18:35:19,157 - DEBUG - Input names: []
+2023-03-25 18:35:19,157 - DEBUG - Input values: []
+2023-03-25 18:35:19,159 - DEBUG - Processing sheet: Alpine Peaks
+2023-03-25 18:35:19,159 - DEBUG - Input names: []
+2023-03-25 18:35:19,159 - DEBUG - Input values: []
+2023-03-25 18:35:19,160 - DEBUG - Processing sheet: Butler Hall
+2023-03-25 18:35:19,160 - DEBUG - Input names: []
+2023-03-25 18:35:19,161 - DEBUG - Input values: []
+2023-03-25 18:35:19,162 - DEBUG - Processing sheet: EVR
+2023-03-25 18:35:19,162 - DEBUG - Input names: []
+2023-03-25 18:35:19,162 - DEBUG - Input values: []
+2023-03-25 18:35:19,164 - DEBUG - Processing sheet: Gavilan
+2023-03-25 18:35:19,164 - DEBUG - Input names: []
+2023-03-25 18:35:19,164 - DEBUG - Input values: []
+2023-03-25 18:35:19,165 - DEBUG - Processing sheet: Heights Point
+2023-03-25 18:35:19,165 - DEBUG - Input names: []
+2023-03-25 18:35:19,165 - DEBUG - Input values: []
+2023-03-25 18:35:19,167 - DEBUG - Processing sheet: Narrow River
+2023-03-25 18:35:19,167 - DEBUG - Input names: []
+2023-03-25 18:35:19,167 - DEBUG - Input values: []
+2023-03-25 18:35:19,169 - DEBUG - Processing sheet: Navemar
+2023-03-25 18:35:19,169 - DEBUG - Input names: []
+2023-03-25 18:35:19,169 - DEBUG - Input values: []
+2023-03-25 18:35:19,170 - DEBUG - Processing sheet: Railroad Ranch
+2023-03-25 18:35:19,170 - DEBUG - Input names: []
+2023-03-25 18:35:19,170 - DEBUG - Input values: []
+2023-03-25 18:35:19,172 - DEBUG - Processing sheet: Rip Road
+2023-03-25 18:35:19,172 - DEBUG - Input names: []
+2023-03-25 18:35:19,172 - DEBUG - Input values: []
+2023-03-25 18:35:20,718 - INFO - Data Transfer Complete

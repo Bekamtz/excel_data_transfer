@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "Forester Capital Data Transfer"
+version = "0.1.0"
+description = "Script for Transferring Data from an input Sheet to a Target Sheet"
+authors = ["Beka <bekamtz@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.7.1,<4.0"
+pandas = "1.3"
+openpyxl = "3.1.2"
+PyYAML = "6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
